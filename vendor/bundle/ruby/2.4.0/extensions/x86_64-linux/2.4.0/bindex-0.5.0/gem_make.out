@@ -1,0 +1,15 @@
+current directory: /home/ruyar/Desktop/projects/bdd-app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/home/ruyar/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180508-5588-194j1ik.rb extconf.rb
+creating Makefile
+
+current directory: /home/ruyar/Desktop/projects/bdd-app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/ruyar/Desktop/projects/bdd-app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/ruyar/Desktop/projects/bdd-app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20180508-5588-125vjtp/bindex
