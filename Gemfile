@@ -33,6 +33,7 @@ end
 
 group :test do
   gem 'database_cleaner'
+  gem 'rails-controller-testing'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
